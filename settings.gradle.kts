@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Assignment1"
+rootProject.name = "CurrencyExchanger"
 include(":app")

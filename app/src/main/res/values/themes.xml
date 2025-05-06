@@ -1,9 +1,13 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.Assignment1" parent="Theme.Material3.DayNight">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+    <!-- Base theme using Material Components (DayNight) -->
+    <style name="Base.Theme.Assignment1" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize colors if needed -->
+        <item name="android:windowBackground">?android:colorBackground</item>
+        <item name="materialThemeOverlay">@style/Theme.Material3.DayNight</item>
     </style>
 
+    <!-- App theme -->
     <style name="Theme.Assignment1" parent="Base.Theme.Assignment1" />
+
 </resources>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">A1 Nachwati -000879289</string>
+    <string name="app_name">Currency Exchanger</string>
     <string-array name="currencies">
         <item>US Dollar</item>
         <item>Saudi Riyal</item>
