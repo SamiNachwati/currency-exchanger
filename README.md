@@ -14,7 +14,7 @@ A simple Android application that allows users to convert currency from CAD to v
 
 ## Features
 
-- Convert from 🇨🇦 CAD to selected currencies
+- Convert from CAD to selected currencies
 - Shows conversion rate
 - Displays corresponding country flag
 - Save your preferences
