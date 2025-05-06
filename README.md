@@ -5,10 +5,11 @@ A simple Android application that allows users to convert currency from CAD to v
 ## 📸 Screenshots
 
 ### Main Screen
-![Main Screen](screenshots/img1.png)
+<img src="screenshots/main_screen.png" alt="Main Screen" width="300"/>
 
 ### Settings Screen
-![Settings Screen](screenshots/img2.png)
+<img src="screenshots/settings_screen.png" alt="Settings Screen" width="300"/>
+
 
 
 ## Features
